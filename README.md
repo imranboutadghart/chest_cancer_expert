@@ -10,11 +10,6 @@ A Prolog-based interactive tool for assessing chest cancer risk through symptom 
 - [Risk Categories](#risk-categories)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Limitations](#limitations)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Disclaimer](#disclaimer)
 
 ---
 
@@ -69,7 +64,7 @@ Thank you for completing the symptom check, Hossam.
 High Risk: You have several symptoms associated with chest cancer. Please see a doctor immediately.
 ```
 
-## Risk categories
+## Risk-categories
 Risk Level	Description
 High Risk	5 or more symptoms detected. Immediate medical attention is recommended.
 Moderate Risk	3–4 symptoms detected. Medical consultation is advisable.
